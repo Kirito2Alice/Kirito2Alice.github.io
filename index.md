@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Wubing's Blog
 
 You can use the [editor on GitHub](https://github.com/Kirito2Alice/Kirito2Alice.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
